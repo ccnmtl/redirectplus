@@ -1,0 +1,12 @@
+._*
+*~
+*.pyc
+ve
+\#*
+local_settings.py
+.project
+.pydevproject
+.settings
+.coverage
+reports
+node_modules
